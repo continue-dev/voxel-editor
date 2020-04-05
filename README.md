@@ -2,7 +2,7 @@
 Node.js版のボクセルエディタです。  
 Socket.ioを使ってネットワーク機能を実装します。  
 多人数で同時編集が出来るエディタにする予定です。  
-![now](./now.png)
+<img width="952" alt="now" src="https://user-images.githubusercontent.com/12429663/78469336-2255d080-775b-11ea-9b33-04026d2d6528.png">
 Web上でVoxelの編集が出来るサービスを作ろうと思っています。  
 ## 現状
 カメラの回転が出来る  
